@@ -22,7 +22,7 @@
 <h2>Installation</h2>
 <p>To run this project locally, follow these steps:</p>
 <ol>
-  <li>Clone the repository: <code>git clone https://github.com/henrymie/mac-os-simulation.git</code></li>
+  <li>Clone the repository: <code>git clone https://github.com/pulsecodes/mac-os-simulation.git</code></li>
   <li>Open the <code>index.html</code> file in your browser.</li>
 </ol>
 
